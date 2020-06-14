@@ -36,7 +36,7 @@ namespace PracticeTask10
 
             Console.WriteLine("\nЗавершение работы в приложении по стягиванию вершин графа");
 
-            Console.WriteLine("Нажмите любую клавишу...");
+            Console.WriteLine("\nНажмите любую клавишу...");
             Console.ReadKey();
         }
 
